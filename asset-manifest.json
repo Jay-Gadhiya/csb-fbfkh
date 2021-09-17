@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jay-gadhiya.github.io/csb-fbfkh/static/css/main.644e01cc.chunk.css",
+    "main.js": "https://jay-gadhiya.github.io/csb-fbfkh/static/js/main.dbd8ee20.chunk.js",
+    "main.js.map": "https://jay-gadhiya.github.io/csb-fbfkh/static/js/main.dbd8ee20.chunk.js.map",
+    "runtime-main.js": "https://jay-gadhiya.github.io/csb-fbfkh/static/js/runtime-main.af0484ad.js",
+    "runtime-main.js.map": "https://jay-gadhiya.github.io/csb-fbfkh/static/js/runtime-main.af0484ad.js.map",
+    "static/js/2.67a5460d.chunk.js": "https://jay-gadhiya.github.io/csb-fbfkh/static/js/2.67a5460d.chunk.js",
+    "static/js/2.67a5460d.chunk.js.map": "https://jay-gadhiya.github.io/csb-fbfkh/static/js/2.67a5460d.chunk.js.map",
+    "index.html": "https://jay-gadhiya.github.io/csb-fbfkh/index.html",
+    "static/css/main.644e01cc.chunk.css.map": "https://jay-gadhiya.github.io/csb-fbfkh/static/css/main.644e01cc.chunk.css.map",
+    "static/js/2.67a5460d.chunk.js.LICENSE.txt": "https://jay-gadhiya.github.io/csb-fbfkh/static/js/2.67a5460d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af0484ad.js",
+    "static/js/2.67a5460d.chunk.js",
+    "static/css/main.644e01cc.chunk.css",
+    "static/js/main.dbd8ee20.chunk.js"
+  ]
+}
